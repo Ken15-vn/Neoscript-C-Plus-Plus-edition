@@ -28,10 +28,12 @@ For the best development experience, we recommend using the following tools:
 - [Visual Studio 2026 Community](https://visualstudio.microsoft.com/) (Full IDE features - Used for this version)
 
 🚀 How to Use (4 Steps):
+1: Download: Download the latest release package and extract it to your project folder.
 
-1. Download: Download the source files and extract them to your project folder.
-2. Setup: Make sure you have Python 3.11 or higher installed and added to your PATH environment variable.
-3. Code: Open ide.ns with any text editor and write the commands you want to execute.
-4. Run: Double-click run.bat to see your code in action.
+2: Environment: Ensure you have the Microsoft Visual C++ Redistributable installed (usually included with Windows or game launchers).
+
+3: Code: Open ide.ns with any text editor (like Notepad or VS Code) and write your NeoScript commands.
+
+4: Run: Double-click run.bat (which now calls the compiled executable) to see your code in action.
 
 Open Source Project
