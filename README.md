@@ -28,6 +28,7 @@ For the best development experience, we recommend using the following tools:
 - [Visual Studio 2026 Community](https://visualstudio.microsoft.com/) (Full IDE features - Used for this version)
 
 🚀 How to Use (4 Steps):
+
 1: Download: Download the latest release package and extract it to your project folder.
 
 2: Environment: Ensure you have the Microsoft Visual C++ Redistributable installed (usually included with Windows or game launchers).
