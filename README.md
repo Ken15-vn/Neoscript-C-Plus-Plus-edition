@@ -17,7 +17,9 @@ NeoScript C++ Edition is a branch of [NeoScript Stable Release v1.0](https://git
 
 🛠️ System Requirements:
 
-- Python 3.11 or higher (Required to run the interpreter).
+- Windows 10/11 (64-bit recommended).
+- Microsoft Visual C++ Redistributable (Required to run the compiled executable).
+- Internet connection (Only for initial setup and downloading tools).
 
 💡 Recommendation:
 
