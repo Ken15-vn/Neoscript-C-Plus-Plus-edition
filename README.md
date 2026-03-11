@@ -34,11 +34,4 @@ For the best development experience, we recommend using the following tools:
 3. Code: Open ide.ns with any text editor and write the commands you want to execute.
 4. Run: Double-click run.bat to see your code in action.
 
-📜 File Structure:
-
-- Neoscript_SR_v1.0.py: The core interpreter (the "brain") of the language.
-- ide.ns: Your script file where you write your NeoScript code.
-- run.bat: The quick-launch file for easy execution on your local machine.
-- run_for_others.bat: Standard launch file for sharing with friends.
-
 Open Source Project
