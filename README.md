@@ -37,4 +37,15 @@ For the best development experience, we recommend using the following tools:
 
 4: Run: Double-click run.bat (which now calls the compiled executable) to see your code in action.
 
+📜 File Structure:
+
+Neoscript.exe: The high-speed compiled interpreter (Written in C++).
+
+ide.ns: Your script file where you write your NeoScript code.
+
+run.bat: The quick-launch file for easy execution.
+
+src/ (Optional): Folder containing the C++ source code (main.cpp, etc.) for those who want to build it themselves.
+
+
 Open Source Project
