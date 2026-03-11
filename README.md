@@ -1,2 +1,42 @@
-# Neoscript-C-edition
-Branch of Neoscript stable release v1.0
+🌍 NeoScript C++ Edition
+
+NeoScript C++ Edition is a branch of [NeoScript Stable Release v1.0](https://github.com/Ken15-vn/Neoscript-stable-release-v1.0)
+
+📜 Current Commands:
+
+- write "message": Output text or variable values to the console.
+- input "variable": Prompt user for numeric input.
+- input_str "variable": Prompt user for string/text input.
+- set "name" value: Initialize a numeric or string variable.
+- add "name" value/variable: Add a value or another variable to a variable.
+- sub "name" value/variable: Subtract a value or another variable from a variable.
+- wait X: Pause program execution for X seconds.
+- clear: Clear the entire console window for a fresh workspace.
+- color "name": Change the text color (e.g., color "cyan", "green", "red").
+- note "message": Add non-executable notes/comments to your script.
+
+🛠️ System Requirements:
+
+- Python 3.11 or higher (Required to run the interpreter).
+
+💡 Recommendation:
+
+For the best development experience, we recommend using the following tools:
+- [Visual Studio Code](https://code.visualstudio.com/) (Lightweight & Powerful)
+- [Visual Studio 2026 Community](https://visualstudio.microsoft.com/) (Full IDE features - Used for this version)
+
+🚀 How to Use (4 Steps):
+
+1. Download: Download the source files and extract them to your project folder.
+2. Setup: Make sure you have Python 3.11 or higher installed and added to your PATH environment variable.
+3. Code: Open ide.ns with any text editor and write the commands you want to execute.
+4. Run: Double-click run.bat to see your code in action.
+
+📜 File Structure:
+
+- Neoscript_SR_v1.0.py: The core interpreter (the "brain") of the language.
+- ide.ns: Your script file where you write your NeoScript code.
+- run.bat: The quick-launch file for easy execution on your local machine.
+- run_for_others.bat: Standard launch file for sharing with friends.
+
+Open Source Project
