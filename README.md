@@ -1,6 +1,6 @@
 🌍 NeoScript C++ Edition
 
-NeoScript C++ Edition is a branch of [NeoScript Stable Release v1.0](https://github.com/Ken15-vn/Neoscript-stable-release-v1.0)
+NeoScript C++ Edition is a branch of [NeoScript Stable Release v1.0](https://github.com/Ken15-vn/Neoscript-stable-release-v1.0) rewritten in C++
 
 📜 Current Commands:
 
